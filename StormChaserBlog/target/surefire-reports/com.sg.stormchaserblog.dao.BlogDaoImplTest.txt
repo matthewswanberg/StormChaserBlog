@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sg.stormchaserblog.dao.BlogDaoImplTest
+-------------------------------------------------------------------------------
+Tests run: 26, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 15.979 s - in com.sg.stormchaserblog.dao.BlogDaoImplTest
